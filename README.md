@@ -1,2 +1,2 @@
 # rr2
-AAABBB
+AbbbCCC
